@@ -1,0 +1,26 @@
+File Name,ReplicateNumber,Sample Type,Analyte Concentration,SampleId,Month,FishLength,FishWeight,OvarianStage
+20211005_salmonovary_01b.raw,01b,Unknown,,10,August,15.2,41.9,LPN
+20211005_salmonovary_02.raw,2,Unknown,,9,February,23.3,159.6,ECA/LCA
+20211005_salmonovary_03.raw,3,Unknown,,9,December,22,123.9,ECA
+20211005_salmonovary_04.raw,4,Unknown,,9,August,15.6,39.5,LPN
+20211005_salmonovary_07.raw,7,Unknown,,8,February,25.2,171.6,ECA/LCA
+20211005_salmonovary_09.raw,9,Unknown,,17,February,24.1,166.6,ECA/LCA
+20211005_salmonovary_10.raw,10,Unknown,,3,April,13,23.2,EPN
+20211005_salmonovary_11.raw,11,Unknown,,19,April,13,25.4,EPN
+20211005_salmonovary_12.raw,12,Unknown,,7,December,21.7,124.4,ECA
+20211005_salmonovary_13.raw,13,Unknown,,17,April,14.2,34.1,EPN
+20211005_salmonovary_14.raw,14,Unknown,,19,February,23,145,LCA
+20211005_salmonovary_15.raw,15,Unknown,,10,December,21.1,116,ECA
+20211005_salmonovary_16.raw,16,Unknown,,15,April,14.5,33.3,EPN
+20211005_salmonovary_17.raw,17,Unknown,,20,August,15.9,43.9,LPN
+20211005_salmonovary_18.raw,18,Unknown,,15,December,22,129.7,ECA
+20211005_salmonovary_19.raw,19,Unknown,,12,December,21,116.9,ECA
+20211005_salmonovary_20.raw,20,Unknown,,13,August,15.6,42.6,LPN
+20211005_salmonovary_21.raw,21,Unknown,,12,February,23.7,153,EPN
+20211005_salmonovary_22.raw,22,Unknown,,10,April,13.2,23.5,EPN
+20211005_salmonovary_23.raw,23,Unknown,,18,February,23,126.6,ECA/LCA
+20211005_salmonovary_24.raw,24,Unknown,,3,August,16.4,45.1,LPN
+20211005_salmonovary_25.raw,25,Unknown,,18,August,15.1,38.2,LPN
+20211005_salmonovary_26.raw,26,Unknown,,2,August,15.7,44.2,LPN
+20211005_salmonovary_27.raw,27,Unknown,,1,August,16.3,49,LPN
+20211005_salmonovary_28.raw,28,Unknown,,9,April,13.5,27.2,EPN
