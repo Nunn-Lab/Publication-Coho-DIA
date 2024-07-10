@@ -1,4 +1,4 @@
-Instructions for Viewing WGCNA interactive data. The files needed to run this script (dataExpr, datTraits, and the TOM file) were created with the provided R script "coho DIA for WGCNA.R"
+Instructions for Viewing WGCNA interactive data. The files needed to run this script (dataExpr, datTraits) were created with the provided R script "coho DIA for WGCNA.R". That script needs to be run to create the TOM file, which was too large to upload to github.
 1. Open Microsoft R Open as an administrator
 2. Under Packages, choose Select Repositories and select the following: CRAN, BioC software, BioC annotation, BioC experiment
 3. install and/or load the following packages: DT, flashClust, WGCNA, plotly, flexdashboard, shiny, tinytex, rmarkdown, GO.db
